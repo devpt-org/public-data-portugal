@@ -11,6 +11,14 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 - Spec (link, com ícone, para a spec da API)
 - Docs (link, com ícone, para documentação da API)
 
+## Conteúdos
+- [Governo](#governo)
+- [Saúde](#saúde)
+- [Meteorologia](#meteorologia)
+- [Transportes](#transportes)
+- [Media](#media)
+- [Outros](#outros)
+
 ## APIs
 
 ### Governo
