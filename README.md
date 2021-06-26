@@ -11,6 +11,14 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 - Spec (link, com ícone, para a spec da API)
 - Docs (link, com ícone, para documentação da API)
 
+### Como posso começar?
+
+1. Faz fork do projeto (<https://github.com/devpt-org/public-api-portugal/fork>)
+2. Cria uma branch para a tua feature (`git checkout -b add/bank-public-api`)
+3. Faz commit das tuas alterações (`git commit -am 'Add some bank public api'`)
+4. Faz push da tua branch para master (`git push origin add/bank-public-api`)
+5. Cria um novo Pull Request
+
 ## Conteúdos
 - [Governo](#governo)
 - [Saúde](#saúde)
