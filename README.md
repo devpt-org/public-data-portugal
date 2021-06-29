@@ -25,6 +25,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 - [Meteorologia](#meteorologia)
 - [Transportes](#transportes)
 - [Media](#media)
+- [Banking](#banking)
 - [Outros](#outros)
 
 ## APIs
@@ -69,8 +70,14 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [PT-NEWS-EXTRACTOR](https://github.com/spamz23/PT-NEWS_EXTRACTOR) | Notícias de jornais | [✅](https://pt-news-extractor.herokuapp.com/#operation/cm_url_search_create) | ❌
 | [Público](https://www.publico.pt/api/list/ultimas) | Dados do Público | ❌ | ❌
 
+### Banking
+
+| API         |  Info | Spec | Docs |
+| ----------- | ----- | :--: | :--: |
+| [SIBS API Market](https://www.sibsapimarket.com/) | Diretório de APIs de Contas, Multibanco, Pagamentos e Informações Bancárias | [✅](https://developer.sibsapimarket.com/sandbox/product) | [✅](https://developer.sibsapimarket.com/sandbox/product)
+
 ### Outros
 
 | API         |  Info | Spec | Docs |
 | ----------- | ----- | :--: | :--: |
-| [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | Outros | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
+| [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
