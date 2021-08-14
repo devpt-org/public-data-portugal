@@ -69,7 +69,15 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Observador](https://observador.pt/wp-json/) | Dados do Observador | ❌ | ❌
 | [PT-NEWS-EXTRACTOR](https://github.com/spamz23/PT-NEWS_EXTRACTOR) | Notícias de jornais | [✅](https://pt-news-extractor.herokuapp.com/#operation/cm_url_search_create) | ❌
 | [Público](https://www.publico.pt/api/list/ultimas) | Dados do Público | ❌ | ❌
-
+| [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | Dados do Jornal de Notícias | ⁉️ | ❌
+| [ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | Dados do ECO | ❌ | ❌
+| [Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | Dados do Diário de Notícias | ❌ | ❌
+| [O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | Dados d'Jogo | ⁉️ | ❌
+| [Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | Dados do Dinheiro Vivo | ❌ | ❌
+| [TSF](http://feeds.tsf.pt/TSF-Ultimas) | Dados do TSF | ⁉️ | ❌
+| [RTP Notícias](https://www.rtp.pt/noticias/rss/) | Dados da RTP Notícias | ⁉️ | ❌
+| [Renascença](https://rr.sapo.pt/rss) | Dados da Renascença | ⁉️ | ⁉️
+| 
 ### Banking
 
 | API         |  Info | Spec | Docs |
