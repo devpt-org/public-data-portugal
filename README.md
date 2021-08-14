@@ -77,7 +77,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [TSF](http://feeds.tsf.pt/TSF-Ultimas) | Dados do TSF | ⁉️ | ❌
 | [RTP Notícias](https://www.rtp.pt/noticias/rss/) | Dados da RTP Notícias | ⁉️ | ❌
 | [Renascença](https://rr.sapo.pt/rss) | Dados da Renascença | ⁉️ | ⁉️
-| 
+
 ### Banking
 
 | API         |  Info | Spec | Docs |
