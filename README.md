@@ -22,6 +22,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 ## Conteúdos
 - [Governo](#governo)
 - [Saúde](#saúde)
+- [Educação](#educação)
 - [Meteorologia](#meteorologia)
 - [Transportes](#transportes)
 - [Media](#media)
@@ -46,6 +47,14 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | API         |  Info | Spec | Docs |
 | ----------- | ----- | :--: | :--: |
 | [Vost Covid](https://covid19-api.vost.pt/) | Dados DGS COVID-19 | [✅](https://covid19-api.vost.pt/swagger.json) | ❌
+| [Transparência SNS v1](https://transparencia.sns.gov.pt/api/v1/console/) | Versão 1 da API de Dados Abertos do SNS | ❌ | [✅](https://help.opendatasoft.com/apis/ods-search-v1/)
+| [Transparência SNS v2](https://transparencia.sns.gov.pt/api/v2/console/) | Versão 2 da API de Dados Abertos do SNS | [✅](https://transparencia.sns.gov.pt/api/v2/swagger.json) | [✅](https://transparencia.sns.gov.pt/api/v2/console/)
+
+### Educação
+
+| API         |  Info | Spec | Docs |
+| ----------- | ----- | :--: | :--: |
+| [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | ❌ |  [✅](https://fenixedu.org/dev/api/)
 
 ### Meteorologia
 
@@ -83,6 +92,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | API         |  Info | Spec | Docs |
 | ----------- | ----- | :--: | :--: |
 | [SIBS API Market](https://www.sibsapimarket.com/) | Diretório de APIs de Contas, Multibanco, Pagamentos e Informações Bancárias | [✅](https://developer.sibsapimarket.com/sandbox/product) | [✅](https://developer.sibsapimarket.com/sandbox/product)
+| [Banco de Portugal](https://bpstat.bportugal.pt/data/docs) | Acesso aberto a estatísticas e metadados do portal de estatística do Banco de Portugal | [✅](https://bpstat.bportugal.pt/data/docs?format=openapi) | [✅](https://bpstat.bportugal.pt/data/docs)
 
 ### Outros
 
