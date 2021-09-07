@@ -41,6 +41,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | ⁉️ | ⁉️
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | ⁉️ | ⁉️
+| [Lisboa GeoDados](https://geodados-cml.hub.arcgis.com/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | ❌ |  [✅](https://geodados-cml.hub.arcgis.com/)
 
 ### Saúde
 
