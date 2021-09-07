@@ -56,6 +56,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | ----------- | ----- | :--: | :--: |
 | [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | ❌ |  [✅](https://fenixedu.org/dev/api/)
 | [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
+| [Biblioteca Nacional de Portugal](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | ❌ |  [✅](https://opendata.bnportugal.gov.pt/oai-pmh.htm)
 
 ### Meteorologia
 
