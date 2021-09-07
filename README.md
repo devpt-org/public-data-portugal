@@ -41,6 +41,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | ⁉️ | ⁉️
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | ⁉️ | ⁉️
+| [JRC Data Catalogue](https://data.jrc.ec.europa.eu/dataset?q=portugal) | Catálogo de dados da União Europeia sobre Portugal | ❌ |  [✅](https://data.jrc.ec.europa.eu/dataset?q=portugal)
 
 ### Saúde
 
