@@ -55,6 +55,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | API         |  Info | Spec | Docs |
 | ----------- | ----- | :--: | :--: |
 | [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | ❌ |  [✅](https://fenixedu.org/dev/api/)
+| [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
 
 ### Meteorologia
 
