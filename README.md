@@ -100,3 +100,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | API         |  Info | Spec | Docs |
 | ----------- | ----- | :--: | :--: |
 | [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
+| [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | ❌ | [✅](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT)
