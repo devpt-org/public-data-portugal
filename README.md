@@ -41,6 +41,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | ⁉️ | ⁉️
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | ⁉️ | ⁉️
+| [Águeda Aberta](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0) | Portal de dados abertos de Águeda | ❌ |  [✅](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0)
 
 ### Saúde
 
