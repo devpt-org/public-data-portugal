@@ -1,15 +1,16 @@
-# Repositório de APIs públicas portuguesas
+# Repositório de dados públicos portuguesos
 
-Este repositório é um agregador de APIs e dados públicos, ou semi públicos, de entidades Portuguesas.
+Este repositório é um agregador de dados públicos, ou semi públicos, de entidades Portuguesas.
 
 ## Regras de contribuição
 
 Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pull request. Caso queiras adicionar alguma entrada nova, garante que segues a estrutura usada. Cada entrada deverá conter:
-- API (nome e link da API)
-- Info (curta explicação sobre a API)
+- Nome (nome e ligação)
+- Info (curta explicação)
 - Categoria (Governo, Saúde, Meteorologia, Transportes, Media, Outros)
-- Spec (link, com ícone, para a spec da API)
-- Docs (link, com ícone, para documentação da API)
+- Tipo (API, RSS, Open Data)
+- Spec (link, com ícone, para a spec se aplicável)
+- Docs (link, com ícone, para documentação se aplicável)
 
 ### Como posso começar?
 
@@ -29,75 +30,75 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 - [Banking](#banking)
 - [Outros](#outros)
 
-## APIs
+## Dados
 
 ### Governo
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [Dados Gov](https://dados.gov.pt/pt/docapi/) | Dados abertos em Portugal | [✅](https://dados.gov.pt/api/1/swagger.json) | [✅](https://dados.gov.pt/pt/docapi/)
-| [GEO PT API](https://github.com/jfoclpf/geoptapi) | Regiões de Portugal | ❌ | [✅](https://github.com/jfoclpf/geoptapi)
-| [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) | Base de dados de difusão do INE | ❌ | [✅](https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=322762582&att_display=n&att_download=y)
-| [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | ⁉️ | ⁉️
-| [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | ❌ | ❌
-| [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | ⁉️ | ⁉️
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [Dados Gov](https://dados.gov.pt/pt/docapi/) | Dados abertos em Portugal | API | [✅](https://dados.gov.pt/api/1/swagger.json) | [✅](https://dados.gov.pt/pt/docapi/)
+| [GEO PT API](https://github.com/jfoclpf/geoptapi) | Regiões de Portugal | API | ❌ | [✅](https://github.com/jfoclpf/geoptapi)
+| [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) | Base de dados de difusão do INE | API | ❌ | [✅](https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=322762582&att_display=n&att_download=y)
+| [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ | API
+| [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
+| [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
 
 ### Saúde
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [Vost Covid](https://covid19-api.vost.pt/) | Dados DGS COVID-19 | [✅](https://covid19-api.vost.pt/swagger.json) | ❌
-| [Transparência SNS v1](https://transparencia.sns.gov.pt/api/v1/console/) | Versão 1 da API de Dados Abertos do SNS | ❌ | [✅](https://help.opendatasoft.com/apis/ods-search-v1/)
-| [Transparência SNS v2](https://transparencia.sns.gov.pt/api/v2/console/) | Versão 2 da API de Dados Abertos do SNS | [✅](https://transparencia.sns.gov.pt/api/v2/swagger.json) | [✅](https://transparencia.sns.gov.pt/api/v2/console/)
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [Vost Covid](https://covid19-api.vost.pt/) | Dados DGS COVID-19 | API | [✅](https://covid19-api.vost.pt/swagger.json) | ❌ 
+| [Transparência SNS v1](https://transparencia.sns.gov.pt/api/v1/console/) | Versão 1 da API de Dados Abertos do SNS | API | ❌ | [✅](https://help.opendatasoft.com/apis/ods-search-v1/)
+| [Transparência SNS v2](https://transparencia.sns.gov.pt/api/v2/console/) | Versão 2 da API de Dados Abertos do SNS | API | [✅](https://transparencia.sns.gov.pt/api/v2/swagger.json) | [✅](https://transparencia.sns.gov.pt/api/v2/console/) 
 
 ### Educação
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | ❌ |  [✅](https://fenixedu.org/dev/api/)
-| [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
-| [Biblioteca Nacional de Portugal](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | ❌ |  [✅](https://opendata.bnportugal.gov.pt/oai-pmh.htm)
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | API | ❌ |  [✅](https://fenixedu.org/dev/api/)
+| [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | API | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
+| [Biblioteca Nacional de Portugal](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | ❌ |  [✅](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Open Data | ⁉️ | ⁉️
 
 ### Meteorologia
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [IPMA](https://api.ipma.pt/) | Dados meteorológicos e oceanográficos | ❌ | [✅](https://api.ipma.pt/)
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [IPMA](https://api.ipma.pt/) | Dados meteorológicos e oceanográficos | API | ❌ | [✅](https://api.ipma.pt/)
 
 ### Transportes
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [CP](https://github.com/juliuste/comboios) | Cliente em JS para a API da CP | [✅]() | [✅](https://github.com/juliuste/comboios)
-| [EMEL](https://emel.city-platform.com/opendata/) | Dados abertos da EMEL | [✅](https://emel.city-platform.com/opendata/) | ❌
-| [Metro de Lisboa](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin) | Conjunto de APIs disponibilizadas pelo ML | [✅](https://api.metrolisboa.pt/store/api-docs/admin/EstadoServicoML/1.0.1?gwType=undefined&gwName=undefined) | [✅](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin#tab2)
-| [TransporLis](https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT) | Dados abertos dos transportes públicos de Lisboa | ⁉️ | ⁉️
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [CP](https://github.com/juliuste/comboios) | Cliente em JS para a API da CP | API | [✅]() | [✅](https://github.com/juliuste/comboios)
+| [EMEL](https://emel.city-platform.com/opendata/) | Dados abertos da EMEL | API | [✅](https://emel.city-platform.com/opendata/) | ❌
+| [Metro de Lisboa](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin) | Conjunto de APIs disponibilizadas pelo ML | API | [✅](https://api.metrolisboa.pt/store/api-docs/admin/EstadoServicoML/1.0.1?gwType=undefined&gwName=undefined) | [✅](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin#tab2)
+| [TransporLis](https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT) | Dados abertos dos transportes públicos de Lisboa | API | [✅](https://www.transporlis.pt/Webservice_dadosabertos/swagger/) | ⁉️
 
 ### Media
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [Observador](https://observador.pt/wp-json/) | Dados do Observador | ❌ | ❌
-| [PT-NEWS-EXTRACTOR](https://github.com/spamz23/PT-NEWS_EXTRACTOR) | Notícias de jornais | [✅](https://pt-news-extractor.herokuapp.com/#operation/cm_url_search_create) | ❌
-| [Público](https://www.publico.pt/api/list/ultimas) | Dados do Público | ❌ | ❌
-| [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | Dados do Jornal de Notícias | ⁉️ | ❌
-| [ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | Dados do ECO | ❌ | ❌
-| [Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | Dados do Diário de Notícias | ❌ | ❌
-| [O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | Dados d'Jogo | ⁉️ | ❌
-| [Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | Dados do Dinheiro Vivo | ❌ | ❌
-| [TSF](http://feeds.tsf.pt/TSF-Ultimas) | Dados do TSF | ⁉️ | ❌
-| [RTP Notícias](https://www.rtp.pt/noticias/rss/) | Dados da RTP Notícias | ⁉️ | ❌
-| [Renascença](https://rr.sapo.pt/rss) | Dados da Renascença | ⁉️ | ⁉️
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [Observador](https://observador.pt/wp-json/) | Dados do Observador | API | ❌ | ❌
+| [PT-NEWS-EXTRACTOR](https://github.com/spamz23/PT-NEWS_EXTRACTOR) | Notícias de jornais | API | [✅](https://pt-news-extractor.herokuapp.com/#operation/cm_url_search_create) | ❌
+| [Público](https://www.publico.pt/api/list/ultimas) | Dados do Público | API | ❌ | ❌
+| [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | Dados do Jornal de Notícias | RSS | ⁉️ | ❌
+| [ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | Dados do ECO | API | ❌ | ❌
+| [Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | Dados do Diário de Notícias | RSS | ❌ | ❌
+| [O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | Dados d'Jogo | RSS | ⁉️ | ❌
+| [Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | Dados do Dinheiro Vivo | RSS | ❌ | ❌
+| [TSF](http://feeds.tsf.pt/TSF-Ultimas) | Dados do TSF | RSS | ⁉️ | ❌
+| [RTP Notícias](https://www.rtp.pt/noticias/rss/) | Dados da RTP Notícias | RSS | ⁉️ | ❌
+| [Renascença](https://rr.sapo.pt/rss) | Dados da Renascença | RSS | ⁉️ | ⁉️
 
 ### Banking
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [SIBS API Market](https://www.sibsapimarket.com/) | Diretório de APIs de Contas, Multibanco, Pagamentos e Informações Bancárias | [✅](https://developer.sibsapimarket.com/sandbox/product) | [✅](https://developer.sibsapimarket.com/sandbox/product)
-| [Banco de Portugal](https://bpstat.bportugal.pt/data/docs) | Acesso aberto a estatísticas e metadados do portal de estatística do Banco de Portugal | [✅](https://bpstat.bportugal.pt/data/docs?format=openapi) | [✅](https://bpstat.bportugal.pt/data/docs)
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [SIBS API Market](https://www.sibsapimarket.com/) | Diretório de APIs de Contas, Multibanco, Pagamentos e Informações Bancárias | API | [✅](https://developer.sibsapimarket.com/sandbox/product) | [✅](https://developer.sibsapimarket.com/sandbox/product)
+| [Banco de Portugal](https://bpstat.bportugal.pt/data/docs) | Acesso aberto a estatísticas e metadados do portal de estatística do Banco de Portugal | API | [✅](https://bpstat.bportugal.pt/data/docs?format=openapi) | [✅](https://bpstat.bportugal.pt/data/docs)
 
 ### Outros
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
+| Nome         |  Info  | Tipo | Spec | Docs |
+| :----------- | :----- | :--: | :--: | :--: |
+| [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | Open Data | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
