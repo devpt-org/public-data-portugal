@@ -101,3 +101,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
 | [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | Open Data | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
+| [ArcGis](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros | ❌ | [✅](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | API | ❌ | ❌
