@@ -22,6 +22,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 
 ## Conteúdos
 - [Governo](#governo)
+- [Justiça](#justiça)
 - [Saúde](#saúde)
 - [Educação](#educação)
 - [Meteorologia](#meteorologia)
@@ -42,6 +43,12 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ | API
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
+
+### Justiça
+
+| API         |  Info | Spec | Docs |
+| ----------- | ----- | :--: | :--: |
+| [Dados na Justiça](https://dados.justica.gov.pt/dataset) | Dados do Ministério da Justiça | ❌ |  [✅](https://dados.justica.gov.pt/dataset)
 
 ### Saúde
 
