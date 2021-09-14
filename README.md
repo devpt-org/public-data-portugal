@@ -1,4 +1,4 @@
-# Repositório de dados públicos portuguesos
+# Repositório de dados públicos portugueses
 
 Este repositório é um agregador de dados públicos, ou semi públicos, de entidades Portuguesas.
 
