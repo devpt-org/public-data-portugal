@@ -57,6 +57,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | :----------- | :----- | :--: | :--: | :--: |
 | [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | API | ❌ |  [✅](https://fenixedu.org/dev/api/)
 | [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | API | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
+| [INESCTEC](https://rdm.inesctec.pt/dataset?_res_format_limit=0) | Dados produzidos ou usados pelos investigadores do INESCTEC | ❌ |  [✅](https://rdm.inesctec.pt/dataset?_res_format_limit=0) | Open Data | ⁉️ | ⁉️
 
 ### Meteorologia
 
