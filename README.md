@@ -42,6 +42,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ | API
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
+| [RNT - Consulta ao Registo](https://registos.turismodeportugal.pt/) | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo | Open Data | ❌ | ❌
 
 ### Saúde
 
