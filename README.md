@@ -43,6 +43,9 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
 | [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT) | Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018 | Open Data | ❌ | [✅](https://github.com/glima93/data_exams_06_18_PT)
+| [RNT - Consulta ao Registo](https://registos.turismodeportugal.pt/) | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo | Open Data | ❌ | ❌
+| [Portal Base](https://github.com/ajcerejeira/base.gov.pt) | Portal de contratos públicos  | Open Data | ❌ | [✅](https://www.base.gov.pt/base4)
+| [Portal do Clima](http://portaldoclima.pt/pt/) | Dados de clima | Open Data| ❌ | ❌
 | [SVN GOV](https://svn.gov.pt/) | Código fonte da administração pública | Open Data | ❌ | ❌
 
 ### Saúde
@@ -75,6 +78,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [EMEL](https://emel.city-platform.com/opendata/) | Dados abertos da EMEL | API | [✅](https://emel.city-platform.com/opendata/) | ❌
 | [Metro de Lisboa](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin) | Conjunto de APIs disponibilizadas pelo ML | API | [✅](https://api.metrolisboa.pt/store/api-docs/admin/EstadoServicoML/1.0.1?gwType=undefined&gwName=undefined) | [✅](https://api.metrolisboa.pt/store/apis/info?name=EstadoServicoML&version=1.0.1&provider=admin#tab2)
 | [TransporLis](https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT) | Dados abertos dos transportes públicos de Lisboa | API | [✅](https://www.transporlis.pt/Webservice_dadosabertos/swagger/) | ⁉️
+| [Transportes Urbanos de Braga](https://tub.pt/downloads/) | Portal de dados da TUB (Transportes Urbanos de Braga) | Open Data | ❌ | ❌
 
 ### Media
 
