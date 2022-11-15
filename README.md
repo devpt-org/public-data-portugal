@@ -43,6 +43,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ |
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
+| [JRC Data Catalogue](https://data.jrc.ec.europa.eu/dataset?q=portugal) | Catálogo de dados da União Europeia sobre Portugal | Open Data | ⁉️ | ⁉️
 | [Águeda Aberta](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0) | Portal de dados abertos de Águeda | Open Data | ⁉️ | ⁉️
 | [Lisboa GeoDados](https://geodados-cml.hub.arcgis.com/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | Open Data | ⁉️ | ⁉️
 | [Dados Abertos do Porto](https://opendata.porto.digital/dataset/) | Portal de dados abertos do Porto | Open Data | ⁉️ | ⁉️
