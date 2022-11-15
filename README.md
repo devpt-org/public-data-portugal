@@ -45,6 +45,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
 | [Águeda Aberta](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0) | Portal de dados abertos de Águeda | Open Data | ⁉️ | ⁉️
 | [Lisboa GeoDados](https://geodados-cml.hub.arcgis.com/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | Open Data | ⁉️ | ⁉️
+| [Dados Abertos do Porto](https://opendata.porto.digital/dataset/) | Portal de dados abertos do Porto | Open Data | ⁉️ | ⁉️
 | [Dados Abertos de Guimarães](https://sig.cm-guimaraes.pt/dadosabertos/#one) | Portal de dados abertos de Guimarães | Open Data | ⁉️ | ⁉️
 | [Cascais Data](https://data.cascais.pt/pt-pt/node/253) | Portal de dados abertos de Cascais | Open Data | ⁉️ | ⁉️
 ! [PORDATA](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | ❌ | ❌
