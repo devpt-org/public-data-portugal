@@ -65,9 +65,9 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
-| [Vost Covid](https://covid19-api.vost.pt/) | Dados DGS COVID-19 | API | [✅](https://covid19-api.vost.pt/swagger.json) | ❌ 
+| [Vost Covid](https://covid19-api.vost.pt/) | Dados DGS COVID-19 | API | [✅](https://covid19-api.vost.pt/swagger.json) | ❌
 | [Transparência SNS v1](https://transparencia.sns.gov.pt/api/v1/console/) | Versão 1 da API de Dados Abertos do SNS | API | ❌ | [✅](https://help.opendatasoft.com/apis/ods-search-v1/)
-| [Transparência SNS v2](https://transparencia.sns.gov.pt/api/v2/console/) | Versão 2 da API de Dados Abertos do SNS | API | [✅](https://transparencia.sns.gov.pt/api/v2/swagger.json) | [✅](https://transparencia.sns.gov.pt/api/v2/console/) 
+| [Transparência SNS v2](https://transparencia.sns.gov.pt/api/v2/console/) | Versão 2 da API de Dados Abertos do SNS | API | [✅](https://transparencia.sns.gov.pt/api/v2/swagger.json) | [✅](https://transparencia.sns.gov.pt/api/v2/console/)
 
 ### Educação
 
@@ -77,6 +77,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | API | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
 | [Salários dos Professores](https://github.com/glima93/teacher_salaries_PT) | Dados sobre os salários dos professores em Portugal entre 2006 e 2018 | Open Data | ❌ | ❌
 | [Biblioteca Nacional de Portugal](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | Open Data | ⁉️ | ⁉️
+| [INESCTEC](https://rdm.inesctec.pt/dataset?_res_format_limit=0) | Dados produzidos ou usados pelos investigadores do INESCTEC | Open Data | ❌ | ❌
 
 ### Meteorologia
 
