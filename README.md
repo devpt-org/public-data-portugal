@@ -42,6 +42,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ |
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
+| [Cascais Data](https://data.cascais.pt/pt-pt/node/253) | Portal de dados abertos de Cascais | Open Data | ⁉️ | ⁉️
 ! [PORDATA](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | ❌ | ❌
 | [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) | Portal contendo as faltas dos deputados a sessões plenárias do Parlamento | Open Data | ❌ | [✅](https://labs.tretas.org/attendance/index/)
 | [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT) | Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018 | Open Data | ❌ | [✅](https://github.com/glima93/data_exams_06_18_PT)
