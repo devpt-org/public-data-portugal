@@ -111,3 +111,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | :----------- | :----- | :--: | :--: | :--: |
 | [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | Open Data | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
 | [Central de Dados](http://centraldedados.pt) | Repositório de dados abertos em Portugal (eleições, nomes, etc) | Open Data & API | [✅](http://centraldedados.pt/api.json) | [✅](http://centraldedados.pt/)
+| [ArcGis](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros | API | ❌ | ❌
