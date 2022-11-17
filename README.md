@@ -22,6 +22,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 
 ## Conteúdos
 - [Governo](#governo)
+- [Justiça](#justiça)
 - [Saúde](#saúde)
 - [Educação](#educação)
 - [Meteorologia](#meteorologia)
@@ -49,6 +50,12 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Portal Base](https://github.com/ajcerejeira/base.gov.pt) | Portal de contratos públicos  | Open Data | ❌ | [✅](https://www.base.gov.pt/base4)
 | [Portal do Clima](http://portaldoclima.pt/pt/) | Dados de clima | Open Data| ❌ | ❌
 | [SVN GOV](https://svn.gov.pt/) | Código fonte da administração pública | Open Data | ❌ | ❌
+
+### Justiça
+
+| API         |  Info | Spec | Docs |
+| ----------- | ----- | :--: | :--: |
+| [Dados na Justiça](https://dados.justica.gov.pt/dataset) | Dados do Ministério da Justiça | ❌ |  [✅](https://dados.justica.gov.pt/dataset)
 
 ### Saúde
 
