@@ -22,6 +22,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 
 ## Conteúdos
 - [Governo](#governo)
+- [Justiça](#justiça)
 - [Saúde](#saúde)
 - [Educação](#educação)
 - [Meteorologia](#meteorologia)
@@ -44,12 +45,22 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
 | [Dados Abertos de Guimarães](https://sig.cm-guimaraes.pt/dadosabertos/#one) | Portal de dados abertos de Guimarães | Open Data | ⁉️ | ⁉️
 ! [PORDATA](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | ❌ | ❌
+| [Dados Abertos do Porto](https://opendata.porto.digital/dataset/) | Portal de dados abertos do Porto | Open Data | ⁉️ | ⁉️
+| [Lisboa GeoDados](https://geodados-cml.hub.arcgis.com/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | Open Data | ⁉️ | ⁉️
+| [Águeda Aberta](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0) | Portal de dados abertos de Águeda | Open Data | ⁉️ | ⁉️
+| [JRC Data Catalogue](https://data.jrc.ec.europa.eu/dataset?q=portugal) | Catálogo de dados da União Europeia sobre Portugal | Open Data | ⁉️ | ⁉️
 | [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) | Portal contendo as faltas dos deputados a sessões plenárias do Parlamento | Open Data | ❌ | [✅](https://labs.tretas.org/attendance/index/)
 | [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT) | Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018 | Open Data | ❌ | [✅](https://github.com/glima93/data_exams_06_18_PT)
 | [RNT - Consulta ao Registo](https://registos.turismodeportugal.pt/) | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo | Open Data | ❌ | ❌
 | [Portal Base](https://github.com/ajcerejeira/base.gov.pt) | Portal de contratos públicos  | Open Data | ❌ | [✅](https://www.base.gov.pt/base4)
 | [Portal do Clima](http://portaldoclima.pt/pt/) | Dados de clima | Open Data| ❌ | ❌
 | [SVN GOV](https://svn.gov.pt/) | Código fonte da administração pública | Open Data | ❌ | ❌
+
+### Justiça
+
+| API         |  Info | Tipo | Spec | Docs |
+| ----------- | ----- | :--: | :--: | :--: |
+| [Dados na Justiça](https://dados.justica.gov.pt/dataset) | Dados do Ministério da Justiça | Open Data | ❌ |  [✅](https://dados.justica.gov.pt/dataset)
 
 ### Saúde
 
@@ -66,6 +77,8 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | API | ❌ |  [✅](https://fenixedu.org/dev/api/)
 | [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | API | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
 | [Salários dos Professores](https://github.com/glima93/teacher_salaries_PT) | Dados sobre os salários dos professores em Portugal entre 2006 e 2018 | Open Data | ❌ | ❌
+| [INESCTEC](https://rdm.inesctec.pt/dataset?_res_format_limit=0) | Dados produzidos ou usados pelos investigadores do INESCTEC | Open Data | ❌ | ❌
+| [Biblioteca Nacional de Portugal](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | Open Data | ⁉️ | ⁉️
 
 ### Meteorologia
 
@@ -112,3 +125,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | :----------- | :----- | :--: | :--: | :--: |
 | [arquivo.pt](https://arquivo.pt/) | Acesso a conteúdo histórico da Web | Open Data | ❌ | [✅](https://github.com/arquivo/pwa-technologies/wiki/Arquivo.pt-API)
 | [Central de Dados](http://centraldedados.pt) | Repositório de dados abertos em Portugal (eleições, nomes, etc) | Open Data & API | [✅](http://centraldedados.pt/api.json) | [✅](http://centraldedados.pt/)
+| [ArcGis](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros | API | ❌ | ❌
