@@ -43,6 +43,8 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ |
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Dados sobre informação turística | Open Data | ⁉️ | ⁉️
+| [Dados Abertos do Porto](https://opendata.porto.digital/dataset/) | Portal de dados abertos do Porto | Open Data | ⁉️ | ⁉️
+| [PORDATA](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | ❌ | ❌
 | [Lisboa GeoDados](https://geodados-cml.hub.arcgis.com/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | Open Data | ⁉️ | ⁉️
 | [Águeda Aberta](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0) | Portal de dados abertos de Águeda | Open Data | ⁉️ | ⁉️
 | [JRC Data Catalogue](https://data.jrc.ec.europa.eu/dataset?q=portugal) | Catálogo de dados da União Europeia sobre Portugal | Open Data | ⁉️ | ⁉️
@@ -56,9 +58,9 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 
 ### Justiça
 
-| API         |  Info | Spec | Docs |
-| ----------- | ----- | :--: | :--: |
-| [Dados na Justiça](https://dados.justica.gov.pt/dataset) | Dados do Ministério da Justiça | ❌ |  [✅](https://dados.justica.gov.pt/dataset)
+| API         |  Info | Tipo | Spec | Docs |
+| ----------- | ----- | :--: | :--: | :--: |
+| [Dados na Justiça](https://dados.justica.gov.pt/dataset) | Dados do Ministério da Justiça | Open Data | ❌ |  [✅](https://dados.justica.gov.pt/dataset)
 
 ### Saúde
 
