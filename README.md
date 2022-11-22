@@ -48,7 +48,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Lisboa GeoDados](https://geodados-cml.hub.arcgis.com/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | Open Data | ⁉️ | ⁉️
 | [Águeda Aberta](https://ckan.sig.cm-agueda.pt/dataset?_res_format_limit=0) | Portal de dados abertos de Águeda | Open Data | ⁉️ | ⁉️
 | [JRC Data Catalogue](https://data.jrc.ec.europa.eu/dataset?q=portugal) | Catálogo de dados da União Europeia sobre Portugal | Open Data | ⁉️ | ⁉️
-| [PORDATA](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | ❌ | ❌
+| [PORDATA](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | Open Data | ❌ | ❌
 | [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) | Portal contendo as faltas dos deputados a sessões plenárias do Parlamento | Open Data | ❌ | [✅](https://labs.tretas.org/attendance/index/)
 | [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT) | Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018 | Open Data | ❌ | [✅](https://github.com/glima93/data_exams_06_18_PT)
 | [RNT - Consulta ao Registo](https://registos.turismodeportugal.pt/) | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo | Open Data | ❌ | ❌
@@ -77,6 +77,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do Instituto Superior Técnico | API | ❌ |  [✅](https://fenixedu.org/dev/api/)
 | [Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | API | ❌ |  [✅](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca)
 | [Salários dos Professores](https://github.com/glima93/teacher_salaries_PT) | Dados sobre os salários dos professores em Portugal entre 2006 e 2018 | Open Data | ❌ | ❌
+| [INESCTEC](https://rdm.inesctec.pt/dataset?_res_format_limit=0) | Dados produzidos ou usados pelos investigadores do INESCTEC | Open Data | ❌ | ❌
 | [Biblioteca Nacional de Portugal](https://opendata.bnportugal.gov.pt/oai-pmh.htm) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | Open Data | ⁉️ | ⁉️
 
 ### Meteorologia
