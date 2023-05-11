@@ -86,6 +86,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
 | [IPMA](https://api.ipma.pt/) | Dados meteorológicos e oceanográficos | API | ❌ | [✅](https://api.ipma.pt/)
+| [barragens.pt](https://www.barragens.pt) | Lista de barragens com o seu armazenamento | API | ❌ | ❌ |
 
 ### Transportes
 
