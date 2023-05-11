@@ -38,7 +38,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
 | [Dados Gov](https://dados.gov.pt/pt/docapi/) | Dados abertos em Portugal | API | [✅](https://dados.gov.pt/api/1/swagger.json) | [✅](https://dados.gov.pt/pt/docapi/)
-| [GEO PT API](https://github.com/jfoclpf/geoptapi) | Regiões de Portugal | API | ❌ | [✅](https://github.com/jfoclpf/geoptapi)
+| [GEO PT API](https://github.com/jfoclpf/geoptapi) | Dados gratuitos e abertos para Portugal sobre regiões administrativas oficiais, georreferenciação, censos e códigos postais | API | [✅](https://github.com/jfoclpf/geoapi.pt/blob/main/src/public/openapi.yaml) | [✅](https://docs.geoapi.pt/)
 | [INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) | Base de dados de difusão do INE | API | ❌ | [✅](https://www.ine.pt/ngt_server/attachfileu.jsp?look_parentBoui=322762582&att_display=n&att_download=y)
 | [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/desenvolvedores) | Dados abertos de Lisboa | API | ⁉️ | ⁉️ |
 | [NIF](https://www.nif.pt/api/) | Validação programatica de NIF | API | ❌ | ❌
@@ -87,6 +87,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
 | [IPMA](https://api.ipma.pt/) | Dados meteorológicos e oceanográficos | API | ❌ | [✅](https://api.ipma.pt/)
+| [barragens.pt](https://www.barragens.pt) | Lista de barragens com o seu armazenamento | API | ❌ | ❌ |
 
 ### Transportes
 
@@ -129,3 +130,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Central de Dados](http://centraldedados.pt) | Repositório de dados abertos em Portugal (eleições, nomes, etc) | Open Data & API | [✅](http://centraldedados.pt/api.json) | [✅](http://centraldedados.pt/)
 | [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | API | ❌ | ❌
 | [ArcGis](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros | API | ❌ | ❌
+| [itjobs.pt](https://www.itjobs.pt/api/) | Anúncios de emprego na área de Tecnologias de Informação em Portugal.| API | ❌ | [✅]([http://centraldedados.pt/](https://www.itjobs.pt/api/docs))
