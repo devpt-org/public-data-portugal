@@ -128,3 +128,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Central de Dados](http://centraldedados.pt) | Repositório de dados abertos em Portugal (eleições, nomes, etc) | Open Data & API | [✅](http://centraldedados.pt/api.json) | [✅](http://centraldedados.pt/)
 | [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | API | ❌ | ❌
 | [ArcGis](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros | API | ❌ | ❌
+| [itjobs.pt](https://www.itjobs.pt/api/) | Anúncios de emprego na área de Tecnologias de Informação em Portugal.| API | ❌ | [✅]([http://centraldedados.pt/](https://www.itjobs.pt/api/docs))
