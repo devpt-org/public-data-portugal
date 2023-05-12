@@ -56,7 +56,8 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Portal Base](https://github.com/ajcerejeira/base.gov.pt) | Portal de contratos públicos  | Open Data | ❌ | [✅](https://www.base.gov.pt/base4)
 | [Portal do Clima](http://portaldoclima.pt/pt/) | Dados de clima | Open Data| ❌ | ❌
 | [SVN GOV](https://svn.gov.pt/) | Código fonte da administração pública | Open Data | ❌ | ❌
-| [emergencias.pt](https://emergencias.pt) | Lista de emergências | API | ❌ | ❌ |
+| [fogos.pt](https://fogos.pt) | Lista de fogos e estatisticas | API | ❌ | ❌ |
+
 ### Justiça
 
 | API         |  Info | Tipo | Spec | Docs |
