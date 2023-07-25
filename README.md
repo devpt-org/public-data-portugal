@@ -87,7 +87,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
 | [IPMA](https://api.ipma.pt/) | Dados meteorológicos e oceanográficos | API | ❌ | [✅](https://api.ipma.pt/)
-| [cheias.pt](https://cheias.pt) | Lista de Ocorrências de cheias | API | ❌ | [✅](https://cheias.pt) |
+| [meteoalarm.org](https://metoalarm.org) | Alertas meteorológicos para toda a Europa | API | ❌ | ❌ | 
 
 ### Transportes
 
