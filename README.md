@@ -99,6 +99,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [TransporLis](https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT) | Dados abertos dos transportes públicos de Lisboa | API | [✅](https://www.transporlis.pt/Webservice_dadosabertos/swagger/) | ⁉️
 | [Transportes Urbanos de Braga](https://tub.pt/downloads/) | Portal de dados da TUB (Transportes Urbanos de Braga) | Open Data | ❌ | ❌
 | [Carris Metropolitana](https://www.carrismetropolitana.pt/) | Carris Metropolitana Schedules API | API | ❌ | [✅](https://github.com/carrismetropolitana/schedules-api)
+| [Sociedade de Transportes Colectivos do Porto](https://github.com/sgtpepperpt/stcp-api) | Dados sobre a rede da STCP e passagem de autocarros em tempo real | API | [✅ ](https://github.com/sgtpepperpt/stcp-api/blob/master/README.md)| [✅](https://github.com/sgtpepperpt/stcp-api/blob/master/examples.md)
 
 
 ### Media
