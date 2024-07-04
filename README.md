@@ -134,3 +134,4 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | API | ❌ | ❌
 | [ArcGis](https://services.arcgis.com/CCZiGSEQbAxxFVh3/ArcGIS/rest/services) | Repositório Arcgis do Estado Português, inclui dados COVID-19, incêndios, combustível, entre outros | API | ❌ | ❌
 | [itjobs.pt](https://www.itjobs.pt/api/) | Anúncios de emprego na área de Tecnologias de Informação em Portugal.| API | ❌ | [✅]([http://centraldedados.pt/](https://www.itjobs.pt/api/docs))
+| [e-redes](https://e-redes.opendatasoft.com/) | Repositório de dados abertos sobre a empresa portuguesa e-redes (setor elétrico).| Open Data & API | ❌ | [✅](https://help.opendatasoft.com/apis/ods-explore-v2/)
