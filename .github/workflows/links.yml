@@ -1,0 +1,18 @@
+name: Verificar ligações
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # todas as segundas-feiras, 06:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Verificar ligações no README
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403/429: sites com proteção anti-bots (ex.: Cloudflare) respondem assim a pedidos automáticos.
+          args: --no-progress --max-retries 3 --timeout 30 --accept 200..=299,301,302,303,307,308,403,429 README.md
+          fail: true

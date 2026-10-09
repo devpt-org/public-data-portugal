@@ -14,7 +14,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 
 ### Como posso começar?
 
-1. Faz fork do projeto (<https://github.com/devpt-org/public-api-portugal/fork>)
+1. Faz fork do projeto (<https://github.com/devpt-org/public-data-portugal/fork>)
 2. Cria uma branch para a tua feature (`git checkout -b add/bank-public-api`)
 3. Faz commit das tuas alterações (`git commit -am 'Add some bank public api'`)
 4. Faz push da tua branch para master (`git push origin add/bank-public-api`)
@@ -100,9 +100,9 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | Nome         |  Info  | Tipo | Spec | Docs |
 | :----------- | :----- | :--: | :--: | :--: |
 | [Público](https://www.publico.pt/api/list/ultimas) | Dados do Público | API | — | —
-| [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | Dados do Jornal de Notícias | RSS | — | —
+| [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | Dados do Jornal de Notícias (⚠️ feed sem atualizações desde 01/02/2024) | RSS | — | —
 | [ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | Dados do ECO | API | — | —
-| [Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | Dados do Diário de Notícias | RSS | — | —
+| [Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | Dados do Diário de Notícias (⚠️ feed sem atualizações desde 01/02/2024) | RSS | — | —
 | [O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | Dados d'Jogo | RSS | — | —
 | [Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | Dados do Dinheiro Vivo | RSS | — | —
 | [TSF](http://feeds.tsf.pt/TSF-Ultimas) | Dados do TSF | RSS | — | —
