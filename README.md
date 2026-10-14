@@ -53,6 +53,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) | Portal contendo as faltas dos deputados a sessões plenárias do Parlamento | Open Data | — | [✅](https://labs.tretas.org/attendance/index/)
 | [RNT - Consulta ao Registo](https://rnt.turismodeportugal.pt/) | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo | Open Data | — | [✅](https://rnt.turismodeportugal.pt/rnt/Termosecondicoes.aspx)
 | [Portal Base](https://www.base.gov.pt/base4) | Portal de contratos públicos  | Open Data | [✅](https://www.base.gov.pt/APIBase2) | [✅](https://www.base.gov.pt/Base4/pt/documentacao/formas-de-obter-dados-sobre-os-contratos-publicos/)
+| [Contratos Públicos (Portal BASE) via Apify](https://apify.com/pearlink/portugal-public-contracts-portal-base?ref=github-s3) | Contratos e anúncios do Portal BASE (IMPIC, desde 2012) em JSON, com filtros por NIF da entidade ou do adjudicatário, CPV, datas e valor. Pago (2 USD por 1000 resultados) | API | [✅](https://api.apify.com/v2/acts/pearlink~portugal-public-contracts-portal-base/builds/default/openapi.json) | [✅](https://apify.com/pearlink/portugal-public-contracts-portal-base?ref=github-s3) |
 | [Portal do Clima](http://rna2100.portaldoclima.pt/pt/) | Dados de clima | Open Data | — | [✅](http://rna2100.portaldoclima.pt/pt/)
 | [fogos.pt](https://fogos.pt) | Lista de fogos e estatisticas | API | [✅](https://api.fogos.pt/docs/) | [✅](https://www.fogos.pt/pt/api) |
 
