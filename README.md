@@ -108,6 +108,7 @@ Se quiseres contribuir, corrigir algo, ou até recomendar melhorias, cria um pul
 | [TSF](http://feeds.tsf.pt/TSF-Ultimas) | Dados do TSF | RSS | — | —
 | [RTP Notícias](https://www.rtp.pt/noticias/rss/) | Dados da RTP Notícias | RSS | — | [✅](https://www.rtp.pt/noticias/rss/)
 | [Renascença](https://rr.pt/rss.aspx) | Dados da Renascença | RSS | — | [✅](https://rr.pt/rss.aspx)
+| [espectro](https://oespectro.eu/dados) | Artigos, histórias, jornais e proprietários da imprensa portuguesa, em ficheiros mensais (CSV, CC BY 4.0) | Open Data | — | [✅](https://github.com/espectro-dados/dados#readme)
 
 ### Banking
 
